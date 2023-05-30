@@ -1,1 +1,3 @@
 # ATM_transactions_stream_analytics
+
+This project involves creating an Azure Analytics solution for processing a data stream generated from ATMs. The data stream contains transaction-related information. The project aims to implement various queries using Azure Analytics to analyze and extract specific information from the data stream. The queries include aggregating transaction amounts based on transaction types, ATM codes, time windows, and customer demographics. Additionally, the project involves generating alerts based on certain conditions, such as detecting specific patterns in transactions or inconsistencies between ATM and customer area codes.
